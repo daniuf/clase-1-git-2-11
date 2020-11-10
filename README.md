@@ -2,27 +2,23 @@
 
 Este es el manual de instrucciones para instalar el proyecto que hicimos en la clase 1.
 
-## Installation
-
-Aca definimos como instalar el proyecto
+## Instalación del proyecto
 
 ```bash
-pip install foobar
+
+git clone https://github.com/daniuf/clase-1-git-2-11 NOMBRE_CARPETA_LOCAL
+
 ```
 
-## Usage
+## Uso
+Luego de clonar el repositorio, ingresar en el mismo y comenzar a trabajar sobre el/los archivos deseados 
 
-```python
-import foobar
-
-foobar.pluralize('word') # returns 'words'
-foobar.pluralize('goose') # returns 'geese'
-foobar.singularize('phenomena') # returns 'phenomenon'
+```
+cd NOMBRE_CARPETA_LOCAL
 ```
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
 Please make sure to update tests as appropriate.
 
 ## License
