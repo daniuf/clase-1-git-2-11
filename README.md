@@ -2,6 +2,8 @@
 
 Este es el manual de instrucciones para instalar el proyecto que hicimos en la clase 1.
 
+Agrego docu
+
 ## Instalación del proyecto
 
 ```bash
